@@ -7,3 +7,7 @@
   * Write an interface for working in the enterprise
   * Write an effective neural network for data analysis
 ## Development stage: data analysis using the method kNN
+## Team: 
+ * Lapteva Arina (github.com/laptevaarina)
+ * Cherepanov Ivan
+ * Yakovlev Pavel
